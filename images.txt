@@ -1,15 +1,1 @@
-nginx
-# 支持私库
-# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-redis:6.2-alpine
-redis:7.2-alpine
-pgvector/pgvector:0.8.0-pg15
-mongo:5.0.18
-mongo:4.4.29
-ghcr.io/labring/fastgpt-sandbox:v4.9.10-fix2
-ghcr.io/labring/fastgpt-mcp_server:v4.9.10-fix2
-ghcr.io/labring/fastgpt:v4.9.10-fix2
-ghcr.io/labring/aiproxy:v0.1.7
-pgvector/pgvector:0.8.0-pg15
-# 支持指定架构
-# --platform=linux/arm64 xiaoyaliu/alist
+continuumio/miniconda3:latest
